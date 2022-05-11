@@ -42,9 +42,6 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
-      //  imageView.frame=CGRect(x: 0, y: 0, width: 250, height: 310)
-       // shadowView.frame=CGRect(x: 82, y: 44, width: 250, height: 310)
-       // pattenImageView.frame=CGRect(x: 0, y: 0, width: 250, height: 310)
         
         redLabel.text="0"
         blueLabel.text="0"
